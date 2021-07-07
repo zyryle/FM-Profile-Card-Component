@@ -44,8 +44,8 @@ body {
   background-color: var(--dark-cyan);
   height: 100vh;
   box-sizing: border-box;
-  background-image: url(/images/bg-pattern-bottom.svg), 
-                    url(/images/bg-pattern-top.svg);
+  background-image: url("../images/bg-pattern-bottom.svg"), 
+                    url("../images/bg-pattern-top.svg");
   background-position: top 50vh left 50vw, bottom 40vh right 50vw;   
   background-repeat: no-repeat;
 }
