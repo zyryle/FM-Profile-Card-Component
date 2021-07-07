@@ -18,8 +18,8 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Screenshot
 
-![](./Desktop.png)
-![](./Mobile.png)
+![](./design/Desktop.png)
+![](./design/Mobile.png)
 
 ### Links
 
@@ -35,5 +35,5 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/Zyryle)
+- Frontend Mentor - [@zyryle](https://www.frontendmentor.io/profile/zyryle)
 
